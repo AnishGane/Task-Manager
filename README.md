@@ -17,3 +17,10 @@ A task manager for assigning the tasks to the registered employee by the admin.
 - **Responsive Layout**: The application is designed to look great on both desktop and mobile devices.
 - **Tailwind CSS**: Utilizes popular CSS frameworks for styling.
 
+## Getting Started
+
+### Prerequisites
+- Make sure you have a web browser installed (Chrome, Firefox, Edge, etc.).
+- Make sure you have install Node.js, if you haven't installed it, Click here [Node JS](https://nodejs.org/en)
+
+
