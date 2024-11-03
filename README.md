@@ -53,7 +53,14 @@ A task manager for assigning the tasks to the registered employee by the admin.
    ![Task Manager Screenshot](https://github.com/user-attachments/assets/141da582-a1b0-4be5-9491-edebe60bd66c)
    > A screenshot showing the Login Page of main Website
 
+   ![Task Manager Screenshot](https://github.com/user-attachments/assets/cdbe8829-24d9-4765-ba96-a5c947ced87e)
+   > A screenshot showing the Admin Page
 
-## Credits
-- Design elements are created using [Tailwind CSS](https://tailwindcss.com).
-- User @AnishGane for the original concept.
+   ![Task Manager Screenshot](https://github.com/user-attachments/assets/9005572e-439b-474c-b412-6309d2075f6c)
+   > A screenshot showing the Employee Page
+
+
+
+  ## Credits
+   - Design elements are created using [Tailwind CSS](https://tailwindcss.com).   
+   - User @AnishGane for the original concept.
