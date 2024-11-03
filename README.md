@@ -61,6 +61,6 @@ A task manager for assigning the tasks to the registered employee by the admin.
 
 
 
-  ## Credits
-   - Design elements are created using [Tailwind CSS](https://tailwindcss.com).   
-   - User @AnishGane for the original concept.
+## Credits
+- Design elements are created using [Tailwind CSS](https://tailwindcss.com).   
+- User @AnishGane for the original concept.
