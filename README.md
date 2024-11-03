@@ -39,7 +39,7 @@ A task manager for assigning the tasks to the registered employee by the admin.
    ```bash
    npm install
    ```
-  4. **To see the website, go to your terminal and use command: **
+4. **To see the website, go to your terminal and use command: **
      ```bash
      npm run dev
      ```
