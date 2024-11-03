@@ -22,6 +22,7 @@ A task manager for assigning the tasks to the registered employee by the admin.
 ### Prerequisites
 - Make sure you have a web browser installed (Chrome, Firefox, Edge, etc.).
 - Make sure you have install Node.js, if you haven't installed it, Click here [Node JS](https://nodejs.org/en)
+- Have a grasp knowledge of npm(node package manager).
 
 ### Installation
 
