@@ -48,6 +48,11 @@ A task manager for assigning the tasks to the registered employee by the admin.
 - **React JS**: For structuring the content.
 - **Tailwind CSS**: For styling the application.
 
+  ## Screenshots
+![Task Manager Screenshot](https://github.com/user-attachments/assets/141da582-a1b0-4be5-9491-edebe60bd66c)
+)
+> A screenshot showing the main interface of the Task Manager application.
+
 
 ## Credits
 - Design elements are created using [Tailwind CSS](https://tailwindcss.com).
