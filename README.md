@@ -43,3 +43,8 @@ A task manager for assigning the tasks to the registered employee by the admin.
      ```bash
      npm run dev
      ```
+
+ ## Technologies Used
+- **React JS**: For structuring the content.
+- **Tailwind CSS**: For styling the application.
+
