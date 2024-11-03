@@ -23,4 +23,23 @@ A task manager for assigning the tasks to the registered employee by the admin.
 - Make sure you have a web browser installed (Chrome, Firefox, Edge, etc.).
 - Make sure you have install Node.js, if you haven't installed it, Click here [Node JS](https://nodejs.org/en)
 
+### Installation
 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AnishGane/Task-Manager.git
+   ```
+
+2. **Navigate to the project folder:**
+   ```bash
+   cd Task-Manager
+   ```
+
+3. **Open the terminal in your code editor and use command :**
+   ```bash
+   npm install
+   ```
+  4. **To see the website, go to your terminal and use command: **
+     ```bash
+     npm run dev
+     ```
